@@ -1,16 +1,18 @@
-# ntqq-vconsole
+# LiteLoaderQQNT - ntqq-vconsole
 
-BetterQQNT插件，使用vConsole进行前端调试  
+LiteLoaderQQNT插件，使用vConsole进行前端调试。
 
-使用前需要安装[BetterQQNT](https://github.com/mo-jinran/BetterQQNT)，并在QQNT新版上使用。
+使用前需要安装[LiteLoaderQQNT](https://github.com/mo-jinran/LiteLoaderQQNT)，并在QQNT新版上使用。
 
 
 ## 安装方法
 
-一般情况下无需安装本插件，因为BetterQQNT会调用QQNT的DevTools  
-但目前还未找到QQNT 9.8.5版本打开自身DevTools方法
+clone或下载zip文件解压，将文件夹移动至`BetterQQNT数据目录/plugins/`下面，重启QQNT即可。
 
-clone或下载zip文件解压，将文件夹移动至`BetterQQNT数据目录/plugins/`下面，重启QQNT即可
+*注意：一般情况下无需安装本插件，因为BetterQQNT会调用QQNT的DevTools，*
+*但目前还未找到QQNT 9.8.5版本打开自身DevTools方法。*
+
+**建议使用[Chii-Devtools](https://github.com/mo-jinran/chii-devtools)以提供更多功能。**
 
 安装插件后界面会多出一个`vConsole`浮条，点击就能弹出浮窗，和手机上微信里的`WebView`调试是一样的。
 
